@@ -1,0 +1,5 @@
+export const WHATSAPP_NUMBER = "919XXXXXXXXX"
+export const EMAIL = "yourmail@gmail.com"
+export const LOCATION = "Tirunelveli, Tamil Nadu"
+export const INSTAGRAM = "https://instagram.com/yourpage"
+export const FACEBOOK = "https://facebook.com/yourpage"
