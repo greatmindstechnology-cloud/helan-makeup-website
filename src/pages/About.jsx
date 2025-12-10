@@ -209,7 +209,7 @@ export default function About() {
           <SlideInLeft>
             <div className="relative h-96 rounded-2xl overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?auto=format&w=1080"
+                src="joy.JPG"
                 className="w-full h-full object-cover"
               />
               <div className="absolute top-6 right-6 bg-white p-4 rounded-full shadow-lg">

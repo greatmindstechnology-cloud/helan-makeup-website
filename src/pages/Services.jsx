@@ -21,7 +21,7 @@ export default function Services() {
       title: 'Bridal Makeup',
       icon: Crown,
       description: 'Complete bridal makeup package with hairstyling for your dream wedding',
-      image: 'https://images.unsplash.com/photo-1625139108082-48bb424c2333?auto=format&w=1080',
+      image: 'IMG_9118.JPG',
       features: [
         'Premium bridal makeup using high-end products',
         'Professional hairstyling and draping',
@@ -39,7 +39,7 @@ export default function Services() {
       title: 'Engagement Makeup',
       icon: Heart,
       description: 'Elegant and sophisticated makeup for your engagement ceremony',
-      image: 'https://images.unsplash.com/photo-1551533326-126e566be22a?auto=format&w=1080',
+      image: 'IMG_3245.JPG',
       features: [
         'Natural yet glamorous look',
         'Camera-friendly makeup',
@@ -57,7 +57,7 @@ export default function Services() {
       title: 'Reception Makeup',
       icon: Star,
       description: 'Glamorous evening makeup for your wedding reception',
-      image: 'https://images.unsplash.com/photo-1763281159769-095cd079d4ec?auto=format&w=1080',
+      image: 'IMG_4051.jpg',
       features: [
         'Dramatic evening makeup',
         'HD and airbrush options',
@@ -74,7 +74,7 @@ export default function Services() {
       title: 'Party Makeup',
       icon: Sparkles,
       description: 'Stunning party makeup for all your celebrations and events',
-      image: 'https://images.unsplash.com/photo-1762074973099-78f2169c9177?auto=format&w=1080',
+      image: 'IMG_5157.JPEG',
       features: [
         'Customized party looks',
         'Trendy makeup styles',
@@ -92,7 +92,7 @@ export default function Services() {
       title: 'HD Makeup',
       icon: Camera,
       description: 'High-definition makeup perfect for photography and videography',
-      image: 'https://images.unsplash.com/photo-1758613655900-61957c2aca5d?auto=format&w=1080',
+      image: 'IMG_4375.jpg',
       features: [
         'Flawless camera finish',
         'No flashback',
@@ -110,7 +110,7 @@ export default function Services() {
       title: 'Airbrush Makeup',
       icon: Palette,
       description: 'Flawless airbrush makeup for a perfect, long-lasting finish',
-      image: 'https://images.unsplash.com/photo-1612590838546-42efc879aa49?auto=format&w=1080',
+      image: 'IMG_3608.JPEG',
       features: [
         'Lightweight and breathable',
         'Even coverage',
@@ -127,7 +127,7 @@ export default function Services() {
       title: 'Traditional Bridal',
       icon: Crown,
       description: 'Authentic South Indian traditional bridal makeup and styling',
-      image: 'https://images.unsplash.com/photo-1760461804986-b9eeaa24cf28?auto=format&w=1080',
+      image: 'IMG_6591.jpg',
       features: [
         'Traditional temple jewelry styling',
         'Classic South Indian makeup',
@@ -144,7 +144,7 @@ export default function Services() {
       title: 'Hairstyling',
       icon: Sparkles,
       description: 'Professional hairstyling for all occasions and events',
-      image: 'https://images.unsplash.com/photo-1715739286630-0e51d5192b50?auto=format&w=1080',
+      image: 'IMG_7133.JPG',
       features: [
         'Bridal hairstyles',
         'Bun & updo styles',

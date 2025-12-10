@@ -31,21 +31,21 @@ export default function Home() {
       title: 'Bridal Makeup',
       desc: 'Signature bridal looks that enhance your natural beauty and match your outfit, jewelry, and personality.',
       image:
-        'https://images.unsplash.com/photo-1527004013197-933c4bb611b3?auto=format&fit=crop&w=900&q=80',
+        'IMG_9118.JPG',
     },
     {
       icon: Camera,
       title: 'HD & Photo Shoot Makeup',
       desc: 'Camera-ready makeup that looks flawless in both real life and high-resolution photography.',
       image:
-        'https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80',
+        'IMG_4051.jpg',
     },
     {
       icon: Palette,
       title: 'Party & Occasion Makeup',
       desc: 'Soft glam, bold looks, or something in between for receptions, parties, and special occasions.',
       image:
-        'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=900&q=80',
+        'IMG_5157.JPEG',
     },
   ];
 
