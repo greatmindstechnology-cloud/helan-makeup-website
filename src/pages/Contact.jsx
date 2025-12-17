@@ -85,7 +85,7 @@ export default function Contact() {
 
                 <motion.a
                   whileHover={{ x: 4 }}
-                  href="mailto:helan.makeup@gmail.com"
+                  href="mailto:joyhelan25@gmail.com"
                   className="flex items-center gap-3 p-3 rounded-xl bg-gray-50 cursor-pointer"
                 >
                   <div
@@ -99,7 +99,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="text-xs font-semibold text-gray-700">Email</div>
-                    <div className="text-xs md:text-sm text-gray-600">helan.makeup@gmail.com</div>
+                    <div className="text-xs md:text-sm text-gray-600">joyhelan25@gmail.com</div>
                   </div>
                 </motion.a>
 
@@ -134,7 +134,7 @@ export default function Contact() {
                   <div>
                     <div className="text-xs font-semibold text-gray-700">Preferred Timings</div>
                     <div className="text-xs md:text-sm text-gray-600">
-                      10:00 AM – 7:00 PM (IST), Tuesday to Sunday
+                      10:00 AM – 9:00 PM (IST), Monday to Sunday
                     </div>
                   </div>
                 </div>
