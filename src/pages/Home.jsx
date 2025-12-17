@@ -102,7 +102,7 @@ export default function Home() {
             </div>
 
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-semibold mb-4">
-              Timeless Bridal Makeup
+              <span style={{ color: 'var(--primary)' }}>Timeless Bridal Makeup</span>
               <br />
               <span style={{ color: 'var(--primary)' }}>That Feels Like You</span>
             </h1>
