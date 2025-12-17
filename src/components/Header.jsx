@@ -24,7 +24,7 @@ export function Header() {
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
   const closeMenu = () => setIsMenuOpen(false);
 
-  const whatsappNumber = '919876543210';
+  const whatsappNumber = '917708286888';
 
   useEffect(() => {
     const handleScroll = () => {

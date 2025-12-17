@@ -2,7 +2,7 @@ import { MessageCircle } from 'lucide-react';
 import { motion } from 'motion/react';
 
 export function WhatsAppButton() {
-  const whatsappNumber = '919876543210';
+  const whatsappNumber = '917708286888';
   const message = 'Hi! I would like to know more about your makeup services.';
 
   const handleClick = () => {

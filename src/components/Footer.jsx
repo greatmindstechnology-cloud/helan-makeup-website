@@ -25,7 +25,7 @@ export function Footer() {
 
   const contactInfo = {
     phone: '+91 77082 86888',
-    email: 'helan.makeup@gmail.com',
+    email: 'joyhelan25@gmail.com',
     location: 'Tirunelveli, Tamil Nadu',
   };
 
@@ -46,13 +46,13 @@ export function Footer() {
   const socialLinks = [
     {
       name: 'Instagram',
-      url: 'https://instagram.com',
+      url: 'https://www.instagram.com/nellai_makeup_artist?igsh=MTU4aXlsZ3prMDJldA%3D%3D&utm_source=qr',
       icon: Instagram,
       color: '#E4405F',
     },
     {
       name: 'Facebook',
-      url: 'https://facebook.com',
+      url: 'https://www.facebook.com/share/17c6vut7uR/?mibextid=wwXIfr',
       icon: Facebook,
       color: '#1877F2',
     },

@@ -115,7 +115,7 @@ export default function Testimonials() {
   ];
 
   const stats = [
-    { number: '500+', label: 'Happy Clients' },
+    { number: '1000+', label: 'Happy Clients' },
     { number: '5.0', label: 'Average Rating' },
     { number: '100%', label: 'Would Recommend' },
     { number: '1000+', label: 'Sessions Completed' },

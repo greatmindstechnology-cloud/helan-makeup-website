@@ -34,7 +34,7 @@ export default function About() {
     },
     {
       icon: Users,
-      title: '500+ Happy Brides',
+      title: '1000+ Happy Brides',
       description: 'Trusted by hundreds of brides across Tirunelveli and beyond',
       color: '#AE9BD3',
     },
@@ -110,7 +110,7 @@ export default function About() {
     {
       year: '2024',
       title: 'Excellence Achieved',
-      description: 'Reached milestone of 500+ happy brides.',
+      description: 'Reached milestone of 1000+ happy brides.',
       icon: Trophy,
     },
   ];
@@ -127,7 +127,7 @@ export default function About() {
     { icon: Palette, title: 'Premium Brands', description: 'Only top-quality products' },
     { icon: Clock, title: 'Punctual Service', description: 'Always on time' },
     { icon: Heart, title: 'Personalized Care', description: 'Customized to your needs' },
-    { icon: Shield, title: 'Trusted Service', description: '500+ satisfied clients' },
+    { icon: Shield, title: 'Trusted Service', description: '1000+ satisfied clients' },
     { icon: Gift, title: 'Value Packages', description: 'Affordable premium quality' },
   ];
 
@@ -231,7 +231,7 @@ export default function About() {
               </p>
 
               <p className="mb-4 text-gray-700">
-                With 5+ years of experience and 500+ bridal makeovers, I ensure every bride receives a personalized, flawless look.
+                With 5+ years of experience and 1000+ bridal makeovers, I ensure every bride receives a personalized, flawless look.
               </p>
 
               <p className="mb-4 text-gray-700">

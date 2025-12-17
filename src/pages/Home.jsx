@@ -167,7 +167,7 @@ export default function Home() {
                 transition={{ duration: 0.6 }}
               >
                 <ImageWithFallback
-                  src="IMG_3598.JPG"
+                  src="award.JPG"
                   alt="Bride"
                   className="relative h-screen"
                 />

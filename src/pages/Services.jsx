@@ -195,7 +195,7 @@ export default function Services() {
     },
   ];
 
-  const whatsappNumber = '91770828688810';
+  const whatsappNumber = '917708286888';
 
   return (
     <div className="min-h-screen">
