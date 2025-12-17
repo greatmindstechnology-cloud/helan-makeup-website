@@ -169,7 +169,7 @@ export default function Home() {
                 <ImageWithFallback
                   src="award.JPG"
                   alt="Bride"
-                  className="relative h-screen"
+                  className="w-full h-full object-cover"
                 />
               </motion.div>
 
