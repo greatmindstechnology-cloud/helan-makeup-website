@@ -19,7 +19,7 @@ export default function Testimonials() {
       event: 'Engagement',
       rating: 5,
       date: 'September 2025',
-      text: 'Most importantly, your pricing is genuine and really worth the work you do 💯 ',
+      text: 'I have seen the magic of art ,she made to many brides, through instagram and decided,shes the one who gonna make my fairy tale dream wedding look.. really fan of her art😍..loved the way she made me look pretty and gorgeous 🥰',
       service: 'Premium Package',
     },
     {
