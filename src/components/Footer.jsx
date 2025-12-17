@@ -21,10 +21,10 @@ import { motion } from 'motion/react';
 export function Footer() {
   const currentYear = new Date().getFullYear();
 
-  const whatsappNumber = '919876543210';
+  const whatsappNumber = '917708286888';
 
   const contactInfo = {
-    phone: '+91 98765 43210',
+    phone: '+91 77082 86888',
     email: 'helan.makeup@gmail.com',
     location: 'Tirunelveli, Tamil Nadu',
   };

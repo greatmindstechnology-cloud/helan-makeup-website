@@ -116,7 +116,7 @@ export default function About() {
   ];
 
   const stats = [
-    { number: '500+', label: 'Happy Brides', icon: Smile },
+    { number: '1000+', label: 'Happy Brides', icon: Smile },
     { number: '5+', label: 'Years Experience', icon: Clock },
     { number: '1000+', label: 'Makeup Sessions', icon: Sparkles },
     { number: '100%', label: 'Satisfaction', icon: ThumbsUp },

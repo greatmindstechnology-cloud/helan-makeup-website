@@ -21,7 +21,7 @@ export default function Portfolio() {
       title: "Traditional South Indian Bridal Look",
       desc: "Full bridal look for morning muhurtham with classic temple jewelry.",
       image:
-        "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+        "IMG_7130.JPG",
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ export default function Portfolio() {
       title: "Soft Glam Engagement Look",
       desc: "Neutral tones with a soft glow and subtle smokey eye.",
       image:
-        "https://images.unsplash.com/photo-1526045612212-70caf35c14df?auto=format&fit=crop&w=900&q=80",
+        "IMG_2750.JPG",
     },
     {
       id: 3,
@@ -37,7 +37,7 @@ export default function Portfolio() {
       title: "Evening Reception Glam",
       desc: "Bold eyes, defined contour, and glossy lips for an elegant night event.",
       image:
-        "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+        "IMG_0403.JPG",
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ export default function Portfolio() {
       title: "Minimal Bridal with Soft Bun",
       desc: "Fresh skin, soft eyes, and traditional bun with flowers.",
       image:
-        "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=80",
+        "IMG_7130.JPG",
     },
     {
       id: 5,
@@ -53,7 +53,7 @@ export default function Portfolio() {
       title: "Guest Party Makeup",
       desc: "Soft glam look for a wedding guest with shimmer eyes.",
       image:
-        "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=900&q=80",
+        "IMG_6539.JPG",
     },
     {
       id: 6,
@@ -61,7 +61,7 @@ export default function Portfolio() {
       title: "Outdoor Pre-Wedding Shoot",
       desc: "Natural-looking base with defined eyes for outdoor lighting.",
       image:
-        "https://images.unsplash.com/photo-1504199367641-aba8151af406?auto=format&fit=crop&w=900&q=80",
+        "IMG_2480.JPG",
     },
     {
       id: 7,
@@ -69,7 +69,7 @@ export default function Portfolio() {
       title: "Studio Portrait",
       desc: "Clean HD base with sharp details for studio photography.",
       image:
-        "https://images.unsplash.com/photo-1512207842290-87277a7e075e?auto=format&fit=crop&w=900&q=80",
+        "IMG_3608.JPEG",
     },
     {
       id: 8,
@@ -77,7 +77,7 @@ export default function Portfolio() {
       title: "Reception Guest Look",
       desc: "Classic liner, soft lips, and glowing skin.",
       image:
-        "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=80",
+        "IMG_7116.JPG",
     },
     {
       id: 9,
@@ -85,7 +85,7 @@ export default function Portfolio() {
       title: "Pastel Lehenga Engagement",
       desc: "Color-coordinated makeup to match pastel lehenga and jewelry.",
       image:
-        "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=80",
+        "IMG_9118.JPG",
     },
   ];
 

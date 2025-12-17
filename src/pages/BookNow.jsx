@@ -93,7 +93,7 @@ function BookNow() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const whatsappNumber = '919876543210';
+    const whatsappNumber = '9177082 86888';
 
     const message = `
 New Booking Request:

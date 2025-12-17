@@ -121,7 +121,7 @@ export default function Testimonials() {
     { number: '1000+', label: 'Sessions Completed' },
   ];
 
-  const whatsappNumber = '919876543210';
+  const whatsappNumber = '917708286888';
 
   return (
     <div className="min-h-screen">

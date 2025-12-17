@@ -8,7 +8,7 @@ export default function Packages() {
       id: 1,
       name: 'Essential',
       icon: Star,
-      price: '₹8,000',
+      price: '₹10,000',
       popular: false,
       description: 'Perfect for pre-wedding events and parties',
       features: [
@@ -66,9 +66,9 @@ export default function Packages() {
 
   const addOns = [
     { name: 'Additional Trial Session', price: '₹2,000' },
-    { name: 'Mother/Sister Makeup', price: '₹4,000' },
-    { name: 'Bridesmaid Makeup (each)', price: '₹3,500' },
-    { name: 'Mehndi Application', price: '₹1,500' },
+    { name: 'Mother/Sister Makeup', price: '₹5,000' },
+    { name: 'Bridesmaid Makeup (each)', price: '₹5,000' },
+    { name: 'Groom Makeup', price: '₹3,000' },
     { name: 'Extra Hour On-Site', price: '₹1,000' },
     { name: 'Travel (outside Tirunelveli)', price: 'Variable' },
   ];
@@ -100,7 +100,7 @@ export default function Packages() {
     },
   ];
 
-  const whatsappNumber = '919876543210';
+  const whatsappNumber = '9177082 86888';
 
   return (
     <div className="min-h-screen">

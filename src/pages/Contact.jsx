@@ -65,7 +65,7 @@ export default function Contact() {
               <div className="space-y-4 mb-6">
                 <motion.a
                   whileHover={{ x: 4 }}
-                  href="tel:+919876543210"
+                  href="tel:+917708 286 888"
                   className="flex items-center gap-3 p-3 rounded-xl bg-gray-50 cursor-pointer"
                 >
                   <div
@@ -79,7 +79,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="text-xs font-semibold text-gray-700">Call / WhatsApp</div>
-                    <div className="text-xs md:text-sm text-gray-600">+91 98765 43210</div>
+                    <div className="text-xs md:text-sm text-gray-600">+91 7708 286 888</div>
                   </div>
                 </motion.a>
 

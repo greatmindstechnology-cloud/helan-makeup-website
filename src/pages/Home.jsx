@@ -167,9 +167,9 @@ export default function Home() {
                 transition={{ duration: 0.6 }}
               >
                 <ImageWithFallback
-                  src="award.JPG"
+                  src="IMG_3598.JPG"
                   alt="Bride"
-                  className="w-full h-full object-cover"
+                  className="relative h-screen"
                 />
               </motion.div>
 
@@ -250,7 +250,7 @@ export default function Home() {
                   whileHover={{ y: -10 }}
                   className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col"
                 >
-                  <div className="relative h-48 overflow-hidden">
+                  <div className="relative h-64 md:h-72 lg:h-80 overflow-hidden">
                     <motion.div whileHover={{ scale: 1.1 }} transition={{ duration: 0.6 }}>
                       <ImageWithFallback
                         src={service.image}
