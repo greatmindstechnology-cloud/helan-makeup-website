@@ -112,27 +112,40 @@ export default function Home() {
               enhance your natural beauty and photograph beautifully from muhurtham to reception.
             </p>
 
-            <div className="flex flex-col sm:flex-row gap-4 mb-8">
-              <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <Link
-                  to="/book-now"
-                  className="inline-flex items-center justify-center px-8 py-3 rounded-lg text-sm md:text-base font-medium"
-                  style={{ backgroundColor: 'var(--primary)', color: 'var(--white)' }}
-                >
-                  Book Your Date
-                  <ArrowRight className="ml-2 w-4 h-4" />
-                </Link>
-              </motion.div>
-              <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <Link
-                  to="/portfolio"
-                  className="inline-flex items-center justify-center px-8 py-3 rounded-lg text-sm md:text-base font-medium border"
-                  style={{ borderColor: 'var(--primary)', color: 'var(--white)' }}
-                >
-                  View Real Brides
-                </Link>
-              </motion.div>
-            </div>
+            <div className="flex flex-col sm:flex-row flex-wrap gap-4 mb-8">
+  <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+    <Link
+      to="/book-now"
+      className="inline-flex items-center justify-center px-8 py-3 rounded-lg text-sm md:text-base font-medium"
+      style={{ backgroundColor: 'var(--primary)', color: 'var(--white)' }}
+    >
+      Book Your Date
+      <ArrowRight className="ml-2 w-4 h-4" />
+    </Link>
+  </motion.div>
+
+  <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+    <Link
+      to="/portfolio"
+      className="inline-flex items-center justify-center px-8 py-3 rounded-lg text-sm md:text-base font-medium border"
+      style={{ borderColor: 'var(--primary)', color: 'var(--white)' }}
+    >
+      View Real Brides
+    </Link>
+  </motion.div>
+
+  <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+    <a
+      href="https://joy-helan-portfolio.onrender.com/"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-flex items-center justify-center px-8 py-3 rounded-lg text-sm md:text-base font-medium border"
+      style={{ borderColor: 'var(--primary)', color: 'var(--white)' }}
+    >
+      View My Portfolio
+    </a>
+  </motion.div>
+</div>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               {stats.map((stat, index) => {

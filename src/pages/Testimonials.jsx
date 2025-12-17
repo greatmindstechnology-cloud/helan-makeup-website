@@ -10,7 +10,7 @@ export default function Testimonials() {
       event: 'Bridal Makeup',
       rating: 5,
       date: 'October 2024',
-      text: 'Helan made me look absolutely stunning on my wedding day! Her attention to detail and professionalism is unmatched. The makeup lasted all day and looked perfect in every photo. I received so many compliments!',
+      text: 'Thank u dear akka...elarum rmba nala irunthuthu sonaga akka make up....I m too satisfied than I expected akka.... looking forward to being ur client for my upcoming events...🫂❤️Once again thank u so much dear akkaa ❤️🫂🥹😍🫶🏻',
       service: 'Bridal Package',
     },
     {
