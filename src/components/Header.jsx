@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react';
 import { Menu, X, Phone, Sparkles } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
+import logo from "../../public/logo.jpeg";
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
@@ -52,16 +53,29 @@ export function Header() {
         <div className="flex items-center justify-between h-16 md:h-20">
 
           {/* LOGO */}
-          <Link to="/" className="flex items-center space-x-2 group">
-            <motion.div whileHover={{ rotate: 360 }} transition={{ duration: 0.6 }}>
+          {/* <Link to="/" className="flex items-center space-x-2 group">
+            {/* <motion.div whileHover={{ rotate: 360 }} transition={{ duration: 0.6 }}>
               <Sparkles size={28} style={{ color: 'var(--primary)' }} />
-            </motion.div>
+            </motion.div> 
 
             <div className="text-xl md:text-2xl" style={{ color: 'var(--primary)' }}>
               <span className="hidden sm:inline">Helan Makeup Artistry</span>
               <span className="sm:hidden">Helan</span>
             </div>
-          </Link>
+          </Link> */}
+
+<Link to="/" className="flex items-center space-x-2 group">
+  <img
+    src={logo}
+    alt="Helan Makeup Artistry Logo"
+    className="h-8 w-8 md:h-10 md:w-10 object-contain"
+  />
+
+  <div className="text-xl md:text-2xl" style={{ color: "var(--primary)" }}>
+    <span className="hidden sm:inline">Helan Makeup Artistry</span>
+    <span className="sm:hidden">Helan</span>
+  </div>
+</Link>
 
           {/* DESKTOP NAV */}
           <nav className="hidden lg:flex items-center space-x-6 xl:space-x-8">

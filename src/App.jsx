@@ -11,10 +11,11 @@ import Packages from './pages/Packages';
 import Testimonials from './pages/Testimonials';
 import Contact from './pages/Contact';
 import BookNow from './pages/BookNow';
-
+import ScrollToTop from "./components/ScrollToTop";
 export default function App() {
   return (
     <Router>
+       <ScrollToTop />
       <div className="min-h-screen flex flex-col">
         <Header />
         <main className="flex-1">
